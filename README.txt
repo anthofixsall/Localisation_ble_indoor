@@ -10,6 +10,7 @@ Exécution du programme de localisation :
 
 CONFIGURATION DES HC-05 VIA ARDUINO
 ** ------------------------------------------------ ** 
+Vitesse de comunication entre arduino et HC-05 : 38400 Bauds
 Utilisation des commandes AT pour la configuration du dispositif
        AT+ROLE = 0 ==> Mode Slave
        AT+CMODE = 1 ==> Visible à tous
